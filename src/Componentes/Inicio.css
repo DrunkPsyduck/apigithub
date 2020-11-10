@@ -1,0 +1,25 @@
+.input {
+  margin-left: 22%;
+  width: 60%;
+}
+
+tr:hover {
+  background-color: #4b4b4b;
+  color: #ececec;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  color: pink;
+}
+
+.perfil {
+  width: 10%;
+  border-radius: 50%;
+  float: left;
+  margin: 3% 2%;
+}

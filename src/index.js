@@ -1,3 +1,9 @@
+/*
+    Madrid 2020
+    Desarrollado por:
+   Mario Canales : https: //github.com/DrunkPsyduck
+   License: MIT
+*/
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
